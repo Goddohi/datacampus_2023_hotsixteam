@@ -3,9 +3,9 @@ This file is a part of the DataCampus project, and the dataset as well as the fi
 The code in question has also removed the configuration for database access.
 
 Development Teams:
-- Design / Frontend: Su-Hyun Park(hyumme) Ki Tae Mun(vambroag) 박종현()
+- Design / Frontend: SuHyun Park(hyumme) Ki Tae Mun(vambroag) 박종현()
 - AI, Backend: 이정엽( ) Yeojin-Chung(Jini-lab) Kyungtae Choi(Goddohi)
-- Project Management for Each part: Kyungtae Choi(Goddohi) Ki Tae Mun(vambroag) Su-Hyun Park(hyumme) 이정엽( ) 
+- Project Management for Each part: Kyungtae Choi(Goddohi) Ki Tae Mun(vambroag) SuHyun Park(hyumme) 이정엽( ) 
 
 KOR
 해당파일은 데이터캠퍼스의 결과물중 일부 파일이며 데이터셋과 머신러닝의 완성본은 제공되어 있지 않습니다
