@@ -4,7 +4,7 @@ The code in question has also removed the configuration for database access.
 
 Development Teams:
 - Design / Frontend: SuHyun Park(hyumme) Ki Tae Mun(vambroag) Jong Hyun Park(JayParc)
-- AI, Backend: 이정엽( ) Yeojin-Chung(Jini-lab) Kyungtae Choi(Goddohi)
+- AI, Backend: 이정엽(ILikeCloudy) Yeojin-Chung(Jini-lab) Kyungtae Choi(Goddohi)
 - Project Management for Each part: Kyungtae Choi(Goddohi) Ki Tae Mun(vambroag) SuHyun Park(hyumme) 이정엽( ) 
 
 KOR
@@ -13,6 +13,6 @@ KOR
 
 개발 파트
 - 디자인 / 프론트 :  박수현(hyumme) 문기태(vambroag) 박종현(JayParc)
-- AI, 백엔드 : 이정엽( ) 정여진(Jini-lab) 최경태(Goddohi)
-- 각 파트별 최종 담당자 : 최경태(Goddohi) 문기태(vambroag) 박수현 (hyumme) 이정엽( ) 
+- AI, 백엔드 : 이정엽(ILikeCloudy) 정여진(Jini-lab) 최경태(Goddohi)
+- 각 파트별 최종 담당자 : 최경태(Goddohi) 문기태(vambroag) 박수현 (hyumme) 이정엽(ILikeCloudy) 
 
