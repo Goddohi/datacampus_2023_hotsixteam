@@ -5,7 +5,7 @@ The code in question has also removed the configuration for database access.
 Development Teams:
 - Design / Frontend: SuHyun Park(hyumme) Ki Tae Mun(vambroag) Jong Hyun Park(JayParc)
 - AI, Backend: 이정엽(ILikeCloudy) Yeojin-Chung(Jini-lab) Kyungtae Choi(Goddohi)
-- Project Management for Each part: Kyungtae Choi(Goddohi) Ki Tae Mun(vambroag) SuHyun Park(hyumme) 이정엽( ) 
+- Project Management for Each part: Kyungtae Choi(Goddohi) Ki Tae Mun(vambroag) SuHyun Park(hyumme) 이정엽(ILikeCloudy) 
 
 KOR
 해당파일은 데이터캠퍼스의 결과물중 일부 파일이며 데이터셋과 머신러닝의 완성본은 제공되어 있지 않습니다
