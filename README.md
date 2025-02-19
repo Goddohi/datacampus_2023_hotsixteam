@@ -18,6 +18,7 @@ KOR
 데이터 팀
  - 데이터 : 최경태(Goddohi) 박종현(JayParc)
  - 논문분석 : 최경태(Goddohi) 박수현(hyumme) 정여진(Jini-lab)
+
 개발 파트
 - 디자인 / 프론트 :  박수현(hyumme) 문기태(vambroag) 박종현(JayParc)
 - AI, 백엔드 : 이정엽(ILikeCloudy) 정여진(Jini-lab) 최경태(Goddohi)
